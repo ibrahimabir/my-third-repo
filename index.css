@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.first-section{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding-top: 50px;
+    justify-content: space-around
+}
+.image-div{
+    width: 100%;
+    height: 80%;   
+}
+.image-div img{
+    width: 100%;
+    height: 100%;
+}
+.div-image img{
+height: 300px;
+width: 300px;
+margin-top: 50px;
+}
+.border-left{
+    border-left: 5px solid salmon;
+   font-family: 'Noto Serif', serif;
+   font-size: 30px;
+   border-radius: 3px;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg, salmon, orange);
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 150px 0;
+}
+span{
+    color: orange;
+}
+.first-intro{
+    padding-right: 25%;
+}
+.align-center{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 900;
+}
+.popins-fans{
+    font-family: 'Poppins', sans-serif;
+}
+.mission{
+    width: 300px;
+    height: 350px;
+    padding: 30px 20px;
+    border-radius: 20px;
+}
+.mission img{
+    width: 100px;
+    height: 100px;
+}
+#one-div{
+    background-color: rgb(236, 192, 199);
+}
+#two-div{
+    background-color: rgb(185, 220, 241);
+}
+#three-div{
+    background-color: rgb(230, 191, 176);
+}
+.develop{
+    padding: 60px 50px 0 50px;
+}
+.heading{
+    font-size: 30px;
+}
