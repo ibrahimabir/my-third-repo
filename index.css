@@ -27,6 +27,8 @@ margin-top: 50px;
    font-family: 'Noto Serif', serif;
    font-size: 30px;
    border-radius: 3px;
+   line-height: 35px;
+   padding-left: 15px;
 }
 .link-button{
     text-decoration: none;
@@ -92,8 +94,9 @@ margin-top: 50px;
 }
 .last-div{
     text-align:center;
-    padding-top: 40px;
+    padding-top: 30px;
     color: white;
+    margin-bottom: 50px;
 }
 #last-heading{
 font-size: 40px;
